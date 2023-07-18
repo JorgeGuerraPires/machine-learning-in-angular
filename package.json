@@ -18,6 +18,7 @@
     "@angular/platform-browser": "^15.0.0",
     "@angular/platform-browser-dynamic": "^15.0.0",
     "@angular/router": "^15.0.0",
+    "@tensorflow-models/coco-ssd": "^2.2.2",
     "@tensorflow/tfjs": "^4.8.0",
     "@tensorflow/tfjs-vis": "^1.5.1",
     "rxjs": "~7.5.0",
