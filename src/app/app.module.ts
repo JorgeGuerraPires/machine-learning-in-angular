@@ -8,6 +8,8 @@ import { Model2Component } from './models/model2/model2.component';
 import { Sandbox1Component } from './sandbox/sandbox1/sandbox1.component';
 import { Model3Component } from './models/model3/model3.component';
 import { Model4Component } from './models/model4/model4.component';
+import { Model5Component } from './models/model5/model5.component';
+import { Model6Component } from './models/model6/model6.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { Model4Component } from './models/model4/model4.component';
     Model2Component,
     Sandbox1Component,
     Model3Component,
-    Model4Component
+    Model4Component,
+    Model5Component,
+    Model6Component
   ],
   imports: [
     BrowserModule,
