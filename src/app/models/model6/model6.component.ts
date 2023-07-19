@@ -60,7 +60,7 @@ export class Model6Component implements OnInit {
 
     maxDetections.forEach((detection: any, idx: any) => {
       ctx.strokeStyle = '#0F0'
-      ctx.lineWidth = 1
+      ctx.lineWidth = 5
 
       const detectedIndex = maxIndices[detection]
       const detectedClass = CLASSES[detectedIndex]
