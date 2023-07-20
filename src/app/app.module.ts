@@ -12,6 +12,8 @@ import { Model5Component } from './models/model5/model5.component';
 import { Model6Component } from './models/model6/model6.component';
 import { Model7Component } from './models/model7/model7.component';
 import { Model8Component } from './models/model8/model8.component';
+import { Model9Component } from './models/model9/model9.component';
+import { Model10Component } from './models/model10/model10.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { Model8Component } from './models/model8/model8.component';
     Model5Component,
     Model6Component,
     Model7Component,
-    Model8Component
+    Model8Component,
+    Model9Component,
+    Model10Component
   ],
   imports: [
     BrowserModule,

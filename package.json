@@ -21,6 +21,8 @@
     "@tensorflow-models/coco-ssd": "^2.2.2",
     "@tensorflow/tfjs": "^4.8.0",
     "@tensorflow/tfjs-vis": "^1.5.1",
+    "danfojs": "^1.1.2",
+    "jquery": "^3.7.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
